@@ -1,0 +1,55 @@
+ 
+Code: 15A05706 
+ 
+ 
+B.Tech IV Year I Semester (R15) Supplementary Examinations January 2023 
+MACHINE LEARNING 
+(Common to CSE & IT) 
+ 
+Time: 3 hours                                                                                                             Max. Marks: 70 
+ 
+PART – A 
+(Compulsory Question) 
+ 
+***** 
+1  Answer the following: (10 X 02 = 20 Marks) 
+ (a) Define grid and cloud computing. 
+ (b) Explain virtual infrastructure. 
+ (c) Describe the objectives of OGSA. 
+ (d) Formulate the OGSA grid service interfaces. 
+ (e) What is Virtualization? 
+ (f) Discuss design requirements of VMM. 
+ (g) Differentiate name nodes and data nodes. 
+ (h) How to read data from a Hadoop URL? Explain.  
+ (i) Discuss on GSI. 
+ (j) Define trust delegation chain. 
+ 
+PART – B 
+(Answer all the questions: 05 X 10 = 50 Marks) 
+ 
+2 (a) How virtual machine work and explain concept of virtualization? 
+ (b) Explain about cloud services in detail. 
+OR 
+3  Discuss in detail about service oriented architecture. 
+   
+4  Explain practical & detailed view of OGSA/OGSI. 
+OR 
+5 (a) Describe about the relation of grid architecture with other distributed technologies. 
+ (b) What are the third-generation initiatives of grid computing? 
+   
+6  Explain in detail, the virtualization for data centre automation. 
+OR 
+7  Write short notes on OS level virtualization. List the pros and cons of OS level virtualization. 
+   
+8 (a) Explain anatomy of a file read. 
+ (b) Illustrate MapReduce logical dataflow. 
+OR 
+9  Explain the Globus Toolkit Architecture (GT4). 
+   
+10  Examine in detail about trust model for grid security enforcement. 
+OR 
+11 (a) Discuss the risk factors of network level of cloud infrastructure. 
+ (b) How will you measure the mutual authentication between two parties? Summarize. 
+ 
+***** 
+R15 

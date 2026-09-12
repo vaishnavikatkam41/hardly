@@ -1,0 +1,51 @@
+ 
+Code: 20A05602T 
+ 
+ 
+B.Tech III Year II Semester (R20) Regular Examinations August 2023 
+MACHINE LEARNING 
+(Common to CSE & CSE (DS)) 
+ 
+Time: 3 hours                                                                                                             Max. Marks: 70 
+ 
+PART – A 
+(Compulsory Question) 
+ 
+***** 
+1  Answer the following: (10 X 02 = 20 Marks)  
+ (a) What is Human Learning? 2M 
+ (b) List out Basic types of data in Machine Learning. 2M 
+ (c) How to evaluate performance of Model? 2M 
+ (d) What is feature in Machine Learning? 2M 
+ (e) Define classification. 2M 
+ (f) Why Bayesian Methods are Important?  2M 
+ (g) What is a Linear Regression? 2M 
+ (h) How many ways to improve the accuracy of the Liner Regression model? 2M 
+ (i) Write any two applications of unsupervised Learning. 2M 
+ (j) What are the association rules in learning? 2M 
+ 
+PART – B 
+(Answer all the questions: 05 X 10 = 50 Marks) 
+ 
+2  What is Machine Learning? Write a applications of Machine Learning. 10M 
+ OR  
+3  Discuss issues in the Machine Learning. 10M 
+    
+4  Write a note on Model Representation and interpretability. 10M 
+ OR  
+5  What are the basics features of engineering? 10M 
+    
+6  Prove the Bayes Theorem with the help of suitable example. 10M 
+ OR  
+7  Discuss support vector machines with the help of example. 10M 
+    
+8  Write an algorithm of simple linear regression. 10M 
+ OR  
+9  Write a note Polynomial Regression Model. 10M 
+    
+10  What is clustering? Discuss different clustering techniques. 10M 
+ OR  
+11  Write a difference between Unsupervised and supervised learning. 10M 
+ 
+***** 
+R20 

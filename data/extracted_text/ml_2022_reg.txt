@@ -1,0 +1,127 @@
+ 
+Code: 19A05603b 
+ 
+ 
+B.Tech III Year II Semester (R19) Regular Examinations July/August 2022 
+INTRODUCTION TO MACHINE LEARNING 
+(Common to CSE & IT) 
+ 
+Time: 3 hours                                                                                                             Max. Marks: 70 
+ 
+PART – A 
+(Compulsory Question) 
+ 
+***** 
+1  Answer the following: (10 X 02 = 20 Marks)  
+ (a) List the basic design issues to machine learning. 2M 
+ (b) State version space representation theorem. 2M 
+ (c) What is the representational power of perceptrons? 2M 
+ (d) How to compute excepted value and variance of random variable? 2M 
+ (e) State bayes theorem. 2M 
+ (f) Under what conditions is successful learning possible? 2M 
+ (g) How to use entropy as evaluation function? 2M 
+ (h) What factors contribute to the popularity of genetic algorithm? 2M 
+ (i) What is the essential difference between analytical and inductive learning? 2M 
+ (j) What are the limitations of explanation-based learning? 2M 
+ 
+PART – B 
+(Answer all the questions: 05 X 10 = 50 Marks) 
+ 
+2 (a) Explain the concept of inductive bias in brief. 5M 
+ (b) Describe hypothesis space search in decision tree learning. 5M 
+ OR  
+3 (a) How the concept learning can be viewed as the task of searching and explain? 5M 
+ (b) Consider the given below training example which finds malignant tumors from MRI scans. 
+Example Shape Size Color Surface Thickness Target concept 
+1 Circular Large Light Smooth Thick Malignant 
+2 Circular Large Light Irregular Thick Malignant 
+3 Oval Large Dark Smooth Thin Benign 
+4 Oval Large Light Irregular Thick Malignant 
+5 Circular Small Light Smooth Thick Benign 
+ 
+5M 
+    
+4 (a) List the appropriate problems for neural network learning. 5M 
+ (b) Discus the perceptron  training rule and delta rule that solves the learning problem of 
+perceptron. 
+5M 
+ OR  
+5 (a) Write a remark on representation of feed forward networks. 5M 
+ (b) Explain about Lamarckian evolution. 5M 
+    
+6 (a) Explain maximum likelihood and least squared error hypothesis. 5M 
+ (b) Consider a football game between two rival teams: Team 0 and Team 1. Suppose Team 0 
+wins 95% of the times and Team 1 wins the remaining matches. Among the games won by 
+team 0, only 30% of them come from playing on teams 1’s football field. On the other -hand 
+75% of the victories for team 1 are obtained while playing at home. If team 1 is to host the next 
+match between the two teams, which team will most likely emerge as the winner? 
+5M 
+ OR  
+Contd. in page 2 
+ 
+ 
+Page 1 of 2 
+ 
+R19  
+Code: 19A05603b 
+ 
+ 
+7 (a) Explain Bayesian belief networks. 5M 
+ (b) Prove that how maximum likelihood (Bayesian learning) can be used in any learning 
+algorithms that are used to minimize the squared error between actual output hypothesis  and 
+predicted output hypothesis. 
+5M 
+    
+8 (a) Explain about simple error and true error. 5M 
+ (b) Explain how reinforcement learning problem differs from other function approximation tasks. 5M 
+ OR  
+9 (a) Define excepted value, variance, standard deviation and estimate bias of a random variable. 5M 
+ (b) Write a short note on: (i) Radial basis function. (ii) Locally weighted regression .                     
+(iii) Sampling theory. 
+5M 
+    
+10 (a) Write the Learn-One rule algorithm. 5M 
+ (b) Discus the inverse resolution rule for the first order logic. 5M 
+ OR  
+11 (a) Justify whether Q-learning is a special case of temporal difference algorithm or not. 5M 
+ (b) Explain sequential covering algorithm. 5M 
+ 
+***** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 2 
+R19 

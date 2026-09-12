@@ -1,0 +1,120 @@
+ 
+Code: 19A05603b 
+ 
+ 
+B.Tech III Year II Semester (R19) Supplementary Examinations January 2024 
+INTRODUCTION TO MACHINE LEARNING 
+(Common to CSE and IT) 
+ 
+Time: 3 hours                                                                                                             Max. Marks: 70 
+ 
+PART – A 
+(Compulsory Question) 
+ 
+***** 
+1  Answer the following: (10 X 02 = 20 Marks)  
+ (a) State Version Space representation theorem. 2M 
+ (b) Define Entropy and Information Gain. 2M 
+ (c) What factors contribute to the popularity of Genetic Algorithm? 2M 
+ (d) What is the role of the activation function in a Neural Network? 2M 
+ (e) State Bayes Theorem. 2M 
+ (f) Define Maximum Likelihood Estimation. 2M 
+ (g) What is Regression and mention its types? 2M 
+ (h) Write the applications of Radial Basis Function Network. 2M 
+ (i) Define Reinforcement Learning. 2M 
+ (j) Mention two difference between Induction and Deduction. 2M 
+ 
+PART – B 
+(Answer all the questions: 05 X 10 = 50 Marks) 
+ 
+2 (a) Define Concept Learning. Explain the task of Concept Learning.   5M 
+ (b) What is Inductive Bias?  Discuss with respect to decision tree learning.   5M 
+ OR  
+3  Construct a decision tree using ID3 considering the following training examples for target 
+function Play Tennis. 
+ 
+Day Outlook Temperature Humidity Wind Play 
+D1 Sunny Hot High Weak No 
+D2 Sunny Hot High Strong No 
+D3 Overcast Hot High Weak Yes 
+D4 Rain Mild High Weak Yes 
+D5 Rain Cool Normal Weak Yes 
+D6 Rain Cool Normal Strong No 
+D7 Overcast Cool Normal Strong Yes 
+D8 Sunny Mild High Weak No 
+D9 Sunny Cool Normal Weak Yes 
+D10 Rain Mild Normal Weak Yes 
+D11 Sunny Mild Normal Strong Yes 
+D12 Overcast Mild High Strong Yes 
+D13 Overcast Hot Normal Weak Yes 
+D14 Rain Mild High Strong No 
+ 
+10M 
+    
+4 (a) What is Perceptron? Explain the representational power of Perceptron.   5M 
+ (b) Discuss Genetic Programming in detail.   5M 
+ OR  
+Contd. in Page 2 
+ 
+Page 1 of 2  
+ 
+R19  
+Code: 19A05603b 
+ 
+ 
+5  Explain Multilayer Neural Network with back propagation in detail. 10M 
+    
+6 (a) What are Bayesian Belief network? Where are they used?   5M 
+ (b) Summarize Naïve Bayes Classifier with an Example.   5M 
+ OR  
+7 (a) Discuss Minimum Description Length Principle in brief.   5M 
+ (b) Write a short note on EM Algorithm.   5M 
+    
+8 (a) Define the following terms with respect to K - Nearest Neighbour Learning:  
+(i) Regression, (ii) Residual, (iii) Kernel Function. 
+  5M 
+ (b) Demonstrate Locally Weighted Linear Regression.   5M 
+ OR  
+9  Explain Case based learning in detail. 10M 
+    
+10 (a) Illustrate FOCL algorithm of learning first order rules.   5M 
+ (b) Discuss the learning tasks and Q-learning in the context of reinforcement learning.   5M 
+ OR  
+11 (a) Define Inverse Resolution? Explain Inverse Resolution in First Order Logic.   5M 
+ (b) What is Explanation Based Learning?  Give an example.    5M 
+ 
+***** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 2  
+ 
+R19 
