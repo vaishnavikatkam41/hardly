@@ -8,8 +8,17 @@ text_files = sorted(text_folder.glob("*.txt"))
 
 def clean_question(raw):
     q = raw.strip()
-    q = re.sub(r"Answer the following.*?Marks\)", "", q)
+    q = re.sub(r"Contd\.? in [Pp]age \d+", "", q)
+    q = re.sub(r"Page \d+ of \d+", "", q)
+    q = re.sub(r"Code:\s*\w+", "", q)
+    q = re.sub(r"R\d{2}\b", "", q)
+    q = re.sub(r"PART\s*[–-]\s*[AB]", "", q)
+    q = re.sub(r"\(?Answer.*?Marks\)", "", q)
+    q = re.sub(r"\(Compulsory Question\)", "", q)
+    q = re.sub(r"\*+", "", q)
     q = re.sub(r"\bOR\b", " ", q)
+    q = re.sub(r"^\s*\d+\s*", "", q)
+    q = re.sub(r"^\(?[a-j]\)\s*", "", q)
     q = re.sub(r"^\s*\d+\s*", "", q)
     q = re.sub(r"^\(?[a-j]\)\s*", "", q)
     q = re.sub(r"\s+", " ", q)
@@ -46,6 +55,7 @@ for one_file in text_files:
 
 print()
 print("Total questions:", len(all_rows))
+
 output_path = Path("data/questions.csv")
 
 with open(output_path, "w", newline="", encoding="utf-8") as f:
